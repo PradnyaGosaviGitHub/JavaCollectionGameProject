@@ -1,0 +1,28 @@
+7 days sport events fill details and display
+player
+sport
+schedule
+
+1. registration player
+    name
+    game name
+2.add sport
+    game name
+    how many players
+3.create schedule
+    day name
+    which game
+
+One player can play many games
+one day have many games
+4.display player wise schedule
+    enter player name
+    player
+    game
+    monday
+5.game wise schedule
+    game name
+    player list
+    day list
+6.daywise
+7.exit

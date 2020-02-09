@@ -1,0 +1,143 @@
+===================================================
+1. Add Sports
+2. Registeration
+3. Create Schedule
+4. Display Schedule
+5. Display
+Please make a choice
+1
+How many sports you want to add?
+3
+Enter sport
+s1
+Enter sport
+s2
+Enter sport
+s3
+===================================================
+1. Add Sports
+2. Registeration
+3. Create Schedule
+4. Display Schedule
+5. Display
+Please make a choice
+2
+Available Sports
+	Sport : s1
+	Sport : s2
+	Sport : s3
+How many player you want to enter?
+3
+Enter the name
+p1
+Sport you intrested
+s1
+Enter the name
+p2
+Sport you intrested
+s2
+Enter the name
+p3
+Sport you intrested
+s3
+===================================================
+1. Add Sports
+2. Registeration
+3. Create Schedule
+4. Display Schedule
+5. Display
+Please make a choice
+3
+Available Sports
+	Sport : s1
+	Sport : s2
+	Sport : s3
+Available Players
+	Player Name: p1	Sport: s1
+	Player Name: p2	Sport: s2
+	Player Name: p3	Sport: s3
+How many games?
+3
+On which day?
+monday
+Enter game
+s1
+s1 is Scheduled!!
+On which day?
+monday
+Enter game
+s2
+s2 is Scheduled!!
+On which day?
+friday
+Enter game
+s3
+s3 is Scheduled!!
+===================================================
+1. Add Sports
+2. Registeration
+3. Create Schedule
+4. Display Schedule
+5. Display
+Please make a choice
+4
+	 1.Day Wise
+	 2.Player Wise
+	 3.Game Wise
+	 4.Main Menu
+	 Select your choice
+1
+Enter the day:
+monday
+	GameName : s1 Day: monday
+Players: p1	 Games: s1
+	GameName : s2 Day: monday
+Players: p2	 Games: s2
+Players: p3	 Games: s3
+===================================================
+1. Add Sports
+2. Registeration
+3. Create Schedule
+4. Display Schedule
+5. Display
+Please make a choice
+4
+	 1.Day Wise
+	 2.Player Wise
+	 3.Game Wise
+	 4.Main Menu
+	 Select your choice
+2
+Enter the Player Name:
+p1
+Players: p1	 Games: s1
+	GameName : s1 Day: monday
+	GameName : s2 Day: monday
+	GameName : s3 Day: friday
+===================================================
+1. Add Sports
+2. Registeration
+3. Create Schedule
+4. Display Schedule
+5. Display
+Please make a choice
+4
+	 1.Day Wise
+	 2.Player Wise
+	 3.Game Wise
+	 4.Main Menu
+	 Select your choice
+3
+Enter the Game:
+s1
+	GameName : s1 Day: monday
+Players: p1	 Games: s1
+Players: p2	 Games: s2
+Players: p3	 Games: s3
+===================================================
+1. Add Sports
+2. Registeration
+3. Create Schedule
+4. Display Schedule
+5. Display
+Please make a choice
